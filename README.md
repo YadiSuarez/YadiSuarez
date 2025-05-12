@@ -6,11 +6,14 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Yadira Suárez
+* Ocupación: Estudiante de Ciencias Computacionales en Espol
+* Lugar de residencia: Guayaquil, Ecuador
+* Sitio web: [Yadi Suarez](https://github.com/YadiSuarez)
 ## Proyectos
-* [Lista de tus proyectos]
+* CardSpace
 ## Intereses
-* [Lista de tus intereses]
+* SQL
+* Backend
+* Java
+* Python
