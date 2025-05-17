@@ -4,9 +4,9 @@ Soy estudiante de ingeniería en ciencias computacionales con interés en el des
 
 ## Contenido
 
-|[🧠 Sobre mí](#sobre-mí) |
-[🚀 Proyectos](#proyectos) |
-[🎯 Tecnologías utilizadas](#tecnologías-utilizadas) | 
+|[🧠 Sobre mí](#-sobre-mí) |
+[🚀 Proyectos](#-proyectos) |
+[🎯 Tecnologías utilizadas](#-tecnologías-utilizadas) | 
 
 ## 🧠 Sobre mí
 Soy desarrollador junior con efoque al desarrollo de software y sitios webs. Me encanta explorar nuevas metodologías para mejorar en las buenas prácticas de código. Actualmente estudio en ESPOL, estoy dispuesta a colaborar y aprender en equipo.
